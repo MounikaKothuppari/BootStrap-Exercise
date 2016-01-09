@@ -1,0 +1,89 @@
+body {
+    background-image: url(http://i1.wp.com/static.web-backgrounds.net/uploads/2012/08/City_Landscape_Background.jpg);
+    background-size: cover;
+    background-repeat: no-repeat;
+}
+
+.header {
+    margin-bottom: 0;
+}
+
+.header1 {
+    background-image: url(http://s3.gomedia.us/wp-content/uploads/2014/01/blurred_header1.gif);
+    padding-top: 18px;
+}
+
+.imDiv {
+    padding-top: 4px;
+    padding-right: 4px;
+    background-color: white;
+    border: 1px solid black;
+    border-radius: 10px;
+    width: 242px;
+    margin-right: 14px;
+    height: 222px;
+    margin-top: 15px;
+    box-shadow: 9px 8px 5px #6b5a54;
+}
+
+.seDiv {
+    padding-top: 18px;
+    padding-bottom: 0px;
+    margin-bottom: 6px;
+    color: white;
+}
+
+hr {
+    background-color: black;
+    height: 3px;
+    margin-left: 15px;
+}
+
+.se2Div {
+    padding-top: 18px;
+    padding-bottom: 0px;
+    margin-bottom: 6px;
+    color: white;
+}
+
+.im2Div {
+    box-shadow: 9px 10px 5px #6b5a54;
+    background-color: white;
+    border: 1px solid black;
+    border-radius: 10px;
+    width: 185px;
+    margin-right: 20px;
+    height: 150px;
+    
+    margin-top: 15px;
+}
+
+.foo {
+    padding-right: 25px;
+}
+
+.navbar-default {
+    background-image: url(images/1.jpg);
+}
+
+input[type=search] {
+    border-top: 0;
+    border-left: 0;
+    border-bottom: 2px solid;
+    border-right: 0;
+    border-color: #ff0080;
+    background: none;
+}
+
+.searchbtn {
+    background: none;
+    border: 0px;
+}
+
+.textPad {
+    margin: 14px 0 0 3px;
+}
+
+.me2Div {
+    padding-bottom: 25px;
+}
